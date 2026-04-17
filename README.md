@@ -1,1 +1,1 @@
-<center> ## Software Engineer | Roboticist | Astrophysics Enthusiast </center>
+<center> Software Developer | Roboticist | Astrophysics Enthusiast </center>
