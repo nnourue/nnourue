@@ -1,5 +1,3 @@
 <div align="center">
- 
-### Software Developer | Roboticist | Astrophysics Enthusiast
- 
+## Software Developer | Roboticist | Astrophysics Enthusiast
 </div>
